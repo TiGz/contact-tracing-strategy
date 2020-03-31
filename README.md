@@ -1,5 +1,4 @@
-# A simple strategy for Cellphone Networks in Conjunction with the local government
-Individual privacy protecting contact tracing strategy for cellphone operators in conjunction with the goverment
+## A simple contact tracing strategy for Cellphone Networks in Conjunction with the local government which protects individuals privacy
 
 1) Covid+ patient tests +ve, medic gets consent to use phone location data and fills in web form
 2) Hourly (or at worst daily) the phone numbers of newly +ve diagnosed are sent to the cellphone operators
