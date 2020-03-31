@@ -15,5 +15,5 @@
 * Of course the very same web form could be used to request an anti-body test for other reasons (e.g. have symptoms, was with someone that has tested +ve, etc)
 
 ## Why Apps won't work
-Lots of people seem to be going the app route but it's extremely difficult to get people to install and use any arbitrary app espectially as the app doesn't really give the user any utility and it also drains the battery quickly.
+Lots of people seem to be going the app route but it's extremely difficult to get people to install and use any arbitrary app especially as the app doesn't really give the user any utility and it also drains the battery quickly.
 
