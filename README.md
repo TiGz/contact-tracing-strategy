@@ -1,5 +1,7 @@
 ## A simple contact tracing strategy for Cellphone Networks in Conjunction with the local government which protects individuals privacy
 
+![Web Sequence Diagram](webseqdiagram.png)
+
 1) Covid+ patient tests +ve, medic gets consent to use phone location data and fills in web form
 2) Hourly (or at worst daily) the phone numbers of newly +ve diagnosed are sent to the cellphone operators
 3) Cellphone network processes the location data for each new number (that is on their own network) into an anonymised standard form.. just a list of geo-coords+timestamp (outside the home) where a user was stationary for a period of time during the past 3/4 days
