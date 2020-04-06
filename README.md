@@ -1,4 +1,4 @@
-## A simple contact tracing strategy for Cellphone Networks in Conjunction with the local government which protects individuals privacy
+## A relatively simple contact tracing strategy for phone networks in conjunction with local government that protects individual privacy
 
 ![Web Sequence Diagram](webseqdiagram.png)
 
@@ -8,8 +8,10 @@
 4) Hourly (or at worst daily) the cellphone networks swap their new anonymised data files with each other
 5) Each cellphone network processes the files from themselves and the other operators to find potential contacts from all of their users location data for the last 3/4 days
 6) For each potential contact they send out an SMS: “You may have been in contact with someone that has recently tested positive for COVID-19 please quarantine with anyone else in your home for 14 days and also fill out this web form: <link to webform>
-7) Potential contact fills out web form to request (anti-body) test and chooses reason “potential contact reported via phone network operator” and is asked to consent to using their data to look for more potential contacts and enters their mobile number
-8) Continue…
+7) Potential contact fills out web form to enter contact details and request a test appointment
+8) Potential contact is sent an SMS or email with location and time of test appointment
+9) Potential contact visits testing facility and has a test performed
+10) Continue from the start.. if the test is +ve
 
 ## Notes
 * It would be best if the web form was branded for the most trustworthy government backed body in the country (i.e. NHS for the UK).
