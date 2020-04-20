@@ -1,3 +1,5 @@
+## note: may not actually be possible due to phone networks inability to pin point persons location
+
 ## A relatively simple contact tracing strategy for phone networks in conjunction with local government that protects individual privacy
 
 ![Web Sequence Diagram](webseqdiagram.png)
